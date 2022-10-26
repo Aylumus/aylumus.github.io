@@ -2,7 +2,7 @@ Welcome to the..
 # Official Constex Github Page
 
 Here, you can find the internals aswell
-as some files of the github page at
+as some files of the github page at:
 spyyrogg.github.io/constex
 
 # What is Constex?
