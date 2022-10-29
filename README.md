@@ -10,8 +10,8 @@ Constex is a premium roblox executor/exploit that features a
 functioning LBI executor, along with a Level 8 security context.
 Constex is created by Spyrogg, whose interests point towards
 reverse engineering, C#, LuaU, and C++. You can get constex at:
-spyyrogg.github.io/constex for only $15 USD by giftcards.*
+spyyrogg.github.io/constex for only $15 USD via PayPal.*
 
-*PayPal Accessablity Coming Soon.
+*Crypto Accessablity Coming Soon.
 
 ## BUY CONSTEX TODAY FOR $15 USD!
