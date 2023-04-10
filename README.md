@@ -1,17 +1,18 @@
-Welcome to the..
-# Official Constex Github Page
+Welcome to my..
+# Official Github Page!
 
-Here, you can find the internals aswell
-as some files of the github page at:
-warkened.github.io/constex
+Here, you can find things about me aswell as projects
+and other things I have been working on, such as Constex.
 
 # What is Constex?
-Constex is a premium roblox executor/exploit that features a
-functioning LBI executor, along with a Level 8 security context.
-Constex is created by Spyrogg, whose interests point towards
-reverse engineering, C#, LuaU, and C++. You can get constex at:
-spyyrogg.github.io/constex for only $15 USD via PayPal.*
+Constex is a private Roblox programming tool that features a
+functioning Proto Conv executor, along with a Level 7 security context, 
+and--Coming Soon--a LuaU Decompiler*.
 
-*Crypto Accessablity Coming Soon.
+Constex is a side project created by Aylumus, whose interests are in
+reverse engineering, C#, LuaU, and C++. You can apply for constex at:
+aylumus.github.io/constex
 
-## BUY CONSTEX TODAY FOR $15 USD!
+*Decompiler Coming Soon.
+
+## NOTE THAT NOT ALL APPLICATIONS ARE ACCEPTED! IF I DON'T RESPOND THEN IT IS PROBABLY BECAUSE YOU ARE DECLINED!
